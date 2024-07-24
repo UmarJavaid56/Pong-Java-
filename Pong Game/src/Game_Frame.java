@@ -1,7 +1,4 @@
 import java.awt.*;
-import java.awt.event.*;
-import java.util.*;
-import java.awt.image.*;
 import javax.swing.*;
 
 public class Game_Frame extends JFrame{
