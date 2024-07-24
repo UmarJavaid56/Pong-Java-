@@ -9,10 +9,8 @@ public class Game_End_Sounds extends Pong_Game {
 
 	
 try {	
-	
-	System.out.println(new File(".").getAbsolutePath());
-            
-	File file = new File("pong/Pong-Java-/Pong Game/src/GameOver.wav");
+        
+	File file = new File("Pong-Java-/Pong Game/src/GameOver.wav");
 	AudioInputStream audioStream = AudioSystem.getAudioInputStream(file);
 	Clip clip = AudioSystem.getClip();
 	clip.open(audioStream);

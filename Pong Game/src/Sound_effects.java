@@ -8,7 +8,7 @@ public class Sound_effects extends Pong_Game {
 	
 	{	
     try {
-	  File file = new File("pong/Pong-Java-/Pong Game/src/Pong.wav");
+	  File file = new File("Pong-Java-/Pong Game/src/Pong.wav");
 	  AudioInputStream audioStream = AudioSystem.getAudioInputStream(file);
 	  Clip clip = AudioSystem.getClip();
 	  clip.open(audioStream);

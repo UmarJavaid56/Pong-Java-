@@ -10,7 +10,7 @@ public class PowerUp_Sound extends Pong_Game {
 	
 try {	
 	
-	File file = new File("pong/Pong-Java-/Pong Game/src/PowerUp.Wav");
+	File file = new File("Pong-Java-/Pong Game/src/PowerUp.Wav");
 	AudioInputStream audioStream = AudioSystem.getAudioInputStream(file);
 	Clip clip = AudioSystem.getClip();
 	clip.open(audioStream);

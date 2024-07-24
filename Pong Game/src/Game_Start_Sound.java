@@ -10,7 +10,7 @@ public class Game_Start_Sound extends Pong_Game {
 	
 try {	
 	
-	File file = new File("pong/Pong-Java-/Pong Game/src/Game_Start.wav");
+	File file = new File("Pong-Java-/Pong Game/src/Game_Start.wav");
 	AudioInputStream audioStream = AudioSystem.getAudioInputStream(file);
 	Clip clip = AudioSystem.getClip();
 	clip.open(audioStream);
