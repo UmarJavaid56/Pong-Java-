@@ -14,4 +14,4 @@ Player 1 and Player 2 must play on the same device.
 5. Click on the debug icon in the Activity Bar on the side of the VS Code window.
 6. Click on "create a launch.json file".
 7. Ensure you have the Java Development Kit (JDK) installed and configured in VSCode. https://www.oracle.com/java/technologies/downloads/#java11
-8. Right-click Pong_Game.Java file and select "Run Java".
+8. Right-click on the Pong_Game.java file in the Explorer view and select "Run Java".
