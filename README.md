@@ -23,9 +23,9 @@ Move Up: Up Arrow Key
 Move Down: Down Arrow Key  
 
 # Rules  
-First player to reach 10 points wins the game.  
-Player 1 and Player 2 must play on the same device.  
-If a player scores a **hat-trick** (scores three times without the other player scoring) they will recieve a powerup. 
+1. First player to reach 10 points wins the game.  
+2. Player 1 and Player 2 must play on the same device.  
+3. If a player scores a **hat-trick** (scores three times without the other player scoring) they will recieve a powerup. 
 
 ## PowerUps  
 1. Player Paddle size increases and opponent Paddle size decreases until opponent also scores a hat-trick.  
