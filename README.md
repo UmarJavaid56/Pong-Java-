@@ -1,5 +1,4 @@
 # Pong
-Add small descr
 
 # Opening in Visual Studio Code
 1. Make sure that you have VSCode installed on your device.
@@ -29,7 +28,7 @@ Player 1 and Player 2 must play on the same device.
 If a player scores a **hat-trick** (scores three times without the other player scoring) they will recieve a powerup. 
 
 ## PowerUps  
-1. Player Paddle size increases and Opponent Paddle Size decreases until opponenent also scores a hat-trick.  
+1. Player Paddle size increases and opponent Paddle size decreases until opponent also scores a hat-trick.  
 
 
 # Repository Structure
